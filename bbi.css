@@ -64,7 +64,7 @@ a:link {
 }
 .p_subtitle {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 11px;
+	/*font-size: 11px;*/
 	color: #000;
 	font-weight: bold;
 }
