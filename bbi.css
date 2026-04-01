@@ -91,7 +91,7 @@ a:link {
 }
 .p_subtitle_white {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 11px;
+	/*font-size: 11px; */
 	color: #FFF;
 	font-weight: bold;
 }
